@@ -1,4 +1,4 @@
-# effects dae · atualizações
+# SafeLayer Editor · atualizações
 
 Instaladores do **effects dae**, editor de imagens, vídeos e motion da **Bingzhan Studios** (equipe **Aurea Sub Studio**).
 
