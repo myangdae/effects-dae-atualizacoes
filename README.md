@@ -1,8 +1,9 @@
-# SafeLayer Editor · atualizações
+# SafeLayer Editor
+## Atualizações
 
-Instaladores do **effects dae**, editor de imagens, vídeos e motion da **Bingzhan Studios** (equipe **Aurea Sub Studio**).
+Instaladores do **Safelayer Editor**, editor de imagens, vídeos e motion da **Bingzhan Studios** (equipe **AURE Studio**).
 
-Este repositório só guarda as versões publicadas (em **Releases**). O código do editor fica num repositório privado.
+Este repositório só guarda as versões publicadas (em **Releases**).
 
 ## Baixar
 
